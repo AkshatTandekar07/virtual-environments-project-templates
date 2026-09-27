@@ -7,7 +7,7 @@ A personal collection of virtual environment configurations and boilerplate proj
 *   **`/virtual-envs/`** (Coming Soon): Contains scripts and configurations (e.g., `requirements.txt`, `environment.yml`, `package.json`) for setting up common development environments.
 *   **`/templates/`** (Coming Soon): Boilerplate code and folder structures for various types of projects (e.g., Python APIs, Web Apps, Data Science workspaces).
 
-## 🚀 How to Use
+## How to Use
 
 ### Using a Project Template
 To start a new project using one of the templates:
